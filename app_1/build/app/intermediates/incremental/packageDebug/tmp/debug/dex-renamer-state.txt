@@ -1,0 +1,4 @@
+#Wed Sep 29 09:43:27 CEST 2021
+base.0=C\:\\Users\\zaino\\OneDrive\\Bureau\\M2 GL\\Mobile avance IOT\\appli_1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
