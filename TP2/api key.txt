@@ -1,0 +1,3 @@
+b6226c21fbdcf89c8c387c2d727841c5
+
+api call : https://api.openweathermap.org/data/2.5/weather?q=paris&appid=b6226c21fbdcf89c8c387c2d727841c5
